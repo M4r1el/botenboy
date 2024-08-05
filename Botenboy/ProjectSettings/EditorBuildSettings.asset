@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: dcedef09fb9320d46a49d7e087de59e9
+  - enabled: 1
+    path: Assets/Scenes/Introduction.unity
+    guid: 8e03626feb33c544eaf02eb67cc71a27
+  - enabled: 1
+    path: Assets/Scenes/Reichswald.unity
+    guid: b0022705d552f8149bd5038d9c4fdb3d
+  - enabled: 1
+    path: Assets/Scenes/IntroductionTavern.unity
+    guid: f265be23a6680f1498fc1be6f865b329
+  - enabled: 1
+    path: Assets/Scenes/EntryTavern.unity
+    guid: 468ac83ae9914db42bf308ddce31b412
+  - enabled: 1
+    path: Assets/Scenes/Tavern.unity
+    guid: f8fe5cc9638f4874c85b31a8d2126a19
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 3002b5db136b45849b7b1559405690cf
+  m_configObjects: {}
