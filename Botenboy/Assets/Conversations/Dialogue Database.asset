@@ -1879,7 +1879,7 @@ MonoBehaviour:
         width: 484
         height: 267
       color: {r: 1, g: 1, b: 1, a: 0.5}
-    canvasScrollPosition: {x: 1023.5627, y: 418.04343}
+    canvasScrollPosition: {x: 0, y: 412.8621}
     canvasZoom: 0.38600028
   - id: 2
     fields:

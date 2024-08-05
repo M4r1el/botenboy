@@ -1001,8 +1001,8 @@ MonoBehaviour:
         width: 484
         height: 267
       color: {r: 1, g: 1, b: 1, a: 0.5}
-    canvasScrollPosition: {x: 478.50113, y: 199.87506}
-    canvasZoom: 1.1055001
+    canvasScrollPosition: {x: 0, y: 0}
+    canvasZoom: 0.32550067
   syncInfo:
     syncActors: 0
     syncItems: 0
